@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=800080&width=435&lines=Code+in+Deep+Purple" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=800080&width=435&lines=Hi👋+I'm+LiZiyuan" />
 </p>
 
 <p align="center">
